@@ -1,15 +1,14 @@
 # 🌐 User Management API
 
-A simple and modular RESTful API built with **Node.js** and **Express** to manage users.
+A simple **Node.js** and **Express** API for managing users with **CI/CD** and **Terraform**.
 
 ---
 
-## ✨ Features
-
-- 📄 `GET /users` – Fetch all users
-- ➕ `POST /users` – Add a new user
-- 📦 JSON-based request/response format
-- ⚙️ Easy to integrate with CI/CD or Terraform (optional)
+## Features
+- **GET /users** – Retrieve users
+- **POST /users** – Create a user
+- **CI/CD** with GitHub Actions
+- **Terraform** for infrastructure
 
 ---
 
